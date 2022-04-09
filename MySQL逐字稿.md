@@ -1259,6 +1259,8 @@ Record Lock + Gap Lock 的组合，锁定一个范围，并且锁定记录本身
 
 # **sql 语句的执行顺序**
 
+**Order by 和 Group by的执行顺序**
+
 # MySQL 处理重复数据
 
 [MySQL 处理重复数据 | 菜鸟教程 (runoob.com)](https://www.runoob.com/mysql/mysql-handling-duplicates.html)
@@ -1280,3 +1282,7 @@ Record Lock + Gap Lock 的组合，锁定一个范围，并且锁定记录本身
 # **Mysql数据存储形式**
 
 [浅谈Mysql数据存储 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903970989670414)
+
+**如何从一亿数据中分页获取某用户所有数据**
+
+**如何实现可串行化隔离级别，来避免幻读？**
